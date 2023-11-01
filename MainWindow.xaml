@@ -9,6 +9,7 @@
     <Grid>
         <Label Content="Das ist der erste Test" HorizontalAlignment="Center" VerticalAlignment="Top"/>
         <Label Content="Das hier ist nun der zweite Test" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,26,0,0"/>
+        <Label Content="Jetzt kommt der letzte Test" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,52,0,0"/>
 
     </Grid>
 </Window>
